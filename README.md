@@ -1,5 +1,5 @@
 # FateInjector
-The Fate Client Themed UWP app dll Injector
+The Fate Client themed UWP app dll Injector.
 
 
 Video:
